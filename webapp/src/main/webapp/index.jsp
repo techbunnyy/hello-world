@@ -1,9 +1,10 @@
     <Html>  
     <head>   
     <title>  
-    Registration Page  
+    fill for registration  
     </title>  
     </head>  
+
     <body bgcolor="Lightskyblue">  
     <br>  
     <br>  
