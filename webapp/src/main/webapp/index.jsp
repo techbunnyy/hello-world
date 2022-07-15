@@ -1,7 +1,7 @@
     <Html>  
     <head>   
     <title>  
-     User registration  
+    New User registration  
     </title>  
     </head>  
 
