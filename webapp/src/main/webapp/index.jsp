@@ -1,7 +1,7 @@
     <Html>  
     <head>   
     <title>  
-    fill for registration  
+     User registration  
     </title>  
     </head>  
 
